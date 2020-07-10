@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
@@ -12,6 +13,7 @@ namespace StoriesWebApi.Controllers
 {
   
     [ApiController]
+    [EnableCors("MyPolicy")]
     public class StoriesController : ControllerBase
     {
         
@@ -39,6 +41,13 @@ namespace StoriesWebApi.Controllers
                 return Ok(list);
             }
             return StatusCode(400);
+        }
+
+        [HttpGet]
+        [Route("api/test")]
+        public async Task<IActionResult> Test()
+        {
+            return Ok("test");
         }
     }
 }

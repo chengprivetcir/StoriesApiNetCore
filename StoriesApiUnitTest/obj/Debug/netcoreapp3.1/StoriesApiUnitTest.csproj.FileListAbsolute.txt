@@ -95,8 +95,9 @@ C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\bin\Debug\netcoreap
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.csprojAssemblyReference.cache
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.AssemblyInfoInputs.cache
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.AssemblyInfo.cs
-C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.csproj.CopyComplete
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.dll
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.pdb
 C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\obj\Debug\netcoreapp3.1\StoriesApiUnitTest.genruntimeconfig.cache
+C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
+C:\Users\johns\source\repos\StoriesWebApi\StoriesApiUnitTest\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll

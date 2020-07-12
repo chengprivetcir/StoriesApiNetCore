@@ -1,0 +1,4 @@
+C:\Users\johns\source\repos\StoriesWebApi\StoriesWebApi\obj\Debug\netcoreapp2.2\StoriesWebApi.csprojAssemblyReference.cache
+C:\Users\johns\source\repos\StoriesWebApi\StoriesWebApi\obj\Debug\netcoreapp2.2\StoriesWebApi.AssemblyInfoInputs.cache
+C:\Users\johns\source\repos\StoriesWebApi\StoriesWebApi\obj\Debug\netcoreapp2.2\StoriesWebApi.AssemblyInfo.cs
+C:\Users\johns\source\repos\StoriesWebApi\StoriesWebApi\obj\Debug\netcoreapp2.2\StoriesWebApi.csproj.CoreCompileInputs.cache

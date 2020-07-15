@@ -45,13 +45,13 @@ namespace StoriesWebApi
                     }
                     else
                     {
-                        return null;
+                        return new List<NewStory>();
                     }
                 }
                 return storiesList;
             }
 
-            return null;
+            return new List<NewStory>();
         }
     }
 
